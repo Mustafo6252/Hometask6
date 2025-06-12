@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.log
+*.tmp
+*.db
+.DS_Store
+.json
